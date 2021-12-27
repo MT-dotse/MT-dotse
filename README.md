@@ -2,18 +2,18 @@
 
 <p> I am a curious and creative frontend developer 💥 with experience in project management and sustainability 🌱 .
   
-  📚 I am currently in the middle <a href="https://www.technigo.io/program">Technigo's </a> fast-paced remote frontend bootcamp 💪 focused on 🛠️
+  📚 I am currently in the middle <a href="https://www.technigo.io/program">Technigo's </a> fast-paced remote frontend bootcamp 💪 focused on 🛠️ <br>
 
-JavaScript (ES6)
-React
-Redux
-HTML5
-CSS
-Node.js
+JavaScript (ES6)<br>
+React<br>
+Redux<br>
+HTML5<br>
+CSS<br>
+Node.js<br>
   
-Say hi 👋 on LinkedIn: <a href ="https://www.linkedin.com/in/madelene-trang-dev/"> Linkedin </a>
+Say hi 👋 on LinkedIn: <a href ="https://www.linkedin.com/in/madelene-trang-dev/"> Linkedin </a><br>
 
-📫 Visit my <a href="https://madelene-trang-portfolio.netlify.app/">Portfolio </a></p>
+📫 Visit my <a href="https://madelene-trang-portfolio.netlify.app/">Portfolio </a></p><br>
 
 
 <!--
