@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Madelene ✨
 
-<p> I am a curious and creative frontend developer 💥 with experience in project management and sustainability 🌱 .
+<p> A curious and creative frontend developer 💥 with experience in project management and sustainability 🌱 .
   
  📚 I am currently in the middle of <a href="https://www.technigo.io/program">Technigo's </a> fast-paced remote frontend bootcamp 💪 focused on 🛠️ <br>
 
