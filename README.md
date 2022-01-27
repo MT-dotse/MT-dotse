@@ -2,7 +2,7 @@
 
 <p> A curious and creative frontend developer 💥 with experience in project management and sustainability 🌱 .
   
- 📚 I am currently in the middle of <a href="https://www.technigo.io/program">Technigo's </a> fast-paced remote frontend bootcamp 💪 focused on 🛠️ <br>
+ 📚 I am currently studying <a href="https://www.technigo.io/program">Technigo's </a> bootcamp 💪 focusing on 🛠️ <br>
 
 JavaScript (ES6)<br>
 React<br>
