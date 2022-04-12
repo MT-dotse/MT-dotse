@@ -1,4 +1,4 @@
-[<img src="https://github.com/MT-dotse/MT-dotse/blob/main/readme_header.png" alt="banner that says Madelene Trang - Frontend Developer">](https://madelene-trang-portfolio.netlify.app/)
+[<img src="https://github.com/MT-dotse/MT-dotse/blob/main/readme_header.png" alt="banner that says Madelene Trang - Frontend Developer">](https://madelene-trang.netlify.app/)
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 55%" style="height: 50%" />
