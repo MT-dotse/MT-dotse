@@ -11,7 +11,7 @@
 - ✔️  I just finished [Debug - Happy Habiting](https://github.com/MT-dotse/final-project), the final project of Technigo's 24-week boot camp.  
   
 
-- 🌱 I’m currently learning Bootstrap and Typescript  
+- 🌱 I’m currently learning Python  <!-- Typescript and Bootstrap -->
   
 
 - ❓ Ask me about anything related to React  
