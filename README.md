@@ -5,7 +5,7 @@
 </div>  
 
 
-### <div align ="center">I am Madelene, a curious and creative frontend developer with experience in project management and sustainability ✨🌳 </div>
+### <div align ="center">I am Madelene, a curious and creative software developer with experience in project management and sustainability ✨🌳 </div>
 <br>
 
 - ✔️  I just finished [Debug - Happy Habiting](https://github.com/MT-dotse/final-project), the final project of Technigo's 24-week boot camp.  
