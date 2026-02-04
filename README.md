@@ -11,7 +11,7 @@
 - ✔️  I finished [Debug - Happy Habiting](https://github.com/MT-dotse/final-project), the final project of Technigo's 24-week boot camp.  
   
 
-- 🌱 I’m currently diving into Angular and Typescript. I believe in continous learning ang growth mindset.
+- 🌱 I’m currently diving into Angular and Typescript. 
   
 
 - ❓ Ask me about anything related to React  
